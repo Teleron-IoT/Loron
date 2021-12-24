@@ -1,7 +1,7 @@
 
-# Teleron - ESP32 RF Geliştirme Kartı 
+# Loron - ESP32 RF Geliştirme Kartı 
 
-Teleron, EBYTE E01 modülü kullanarak kolayca RF haberleşmesi yapabilen bir geliştirme kartıdır.
+Loron, EBYTE E01 modülü kullanarak kolayca RF haberleşmesi yapabilen bir geliştirme kartıdır.
 
 
 
