@@ -30,7 +30,7 @@ E01RF ile gönderilmek istenen verinin yollanmasını sağlar.
 | `size` | `int` | Gönderilecek verinin boyutu |
 | `return` | `bool` | Gönderim başarısı |
 
-#### bool receiveData(void* data);
+#### bool receiveData(void* data); 
 E01RF ile veri alınmasını sağlar.
 | Parametre | Tip     | Açıklama                |
 | :-------- | :------- | :------------------------- |
